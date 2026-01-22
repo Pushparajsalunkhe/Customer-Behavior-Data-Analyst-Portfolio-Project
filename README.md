@@ -16,8 +16,8 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 ## 🛠️ How to Use This Project
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Pushparajsalunkhe/Customer-Behavior-Data-Analyst-Portfolio-Project
+   ```
+   https://github.com/Pushparajsalunkhe/Customer-Behavior-Data-Analyst-Portfolio-Project
    ```
 2. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
 
@@ -47,11 +47,9 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
    
       - Create interactive dashboard in Power BI
   
-6. **Create Project Report and Presentation**
+6. **Create Project Report **
 
       - Create project report
-   
-      - Build presentation deck using Gamma AI
   
 
 
